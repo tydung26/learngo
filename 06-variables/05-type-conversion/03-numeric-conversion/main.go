@@ -13,6 +13,7 @@ import "fmt"
 func main() {
 	var apple int
 	var orange int32
+	// orange = int32(apple)
 
 	// ERROR:
 	// cannot assign orange to apple (different types)

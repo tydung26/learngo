@@ -17,5 +17,7 @@ package main
 //     use it
 // ---------------------------------------------------------
 
+var checkmeout int
+
 func main() {
 }

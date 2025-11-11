@@ -32,4 +32,6 @@ func main() {
 	// var ? int
 	// var ? int
 	// var ? int
+
+	// var package int
 }
