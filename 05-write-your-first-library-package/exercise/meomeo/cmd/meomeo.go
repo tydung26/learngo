@@ -2,6 +2,6 @@ package meomeo
 
 import "runtime"
 
-func Version() string {
+func MeoMeo() string {
 	return runtime.Version()
 }
